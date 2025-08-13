@@ -1,4 +1,4 @@
-# <span style="color:#333333;"><b>Data Analyst | M.S. Data Analytics Candidate</b></span>
+# <span style="color:#2E75B6;"><b>Data Analyst | M.S. Data Analytics Candidate</b></span>
 
 #### Technical Skills: <span style="color:#3E4C59"><b>Python</b></span> • <span style="color:#3E4C59"><b>R</b></span> • <span style="color:#3E4C59"><b>SQL</b></span> • <span style="color:#3E4C59"><b>ETL</b></span> • <span style="color:#3E4C59"><b>ML</b></span> • <span style="color:#3E4C59"><b>AWS</b></span> • <span style="color:#3E4C59"><b>Power BI</b></span> • <span style="color:#3E4C59"><b>Tableau</b></span> • <span style="color:#3E4C59"><b>Generative AI</b></span>
 
