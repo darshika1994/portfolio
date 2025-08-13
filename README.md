@@ -1,17 +1,8 @@
-# <span style="color:blue">Data Analyst | M.S. Data Analytics Candidate</span>
+# <span style="color:#1F4E79"><b>Data Analyst | M.S. Data Analytics Candidate</b></span>
 
 #### Technical Skills: Python, R, SQL, Power BI, Tableau, ETL, ML, AWS, Generative AI
 
-#### Technical Skills: 
-<span style="color:#222222"><b>Python</b></span>, 
-<span style="color:#222222"><b>R</b></span>, 
-<span style="color:#222222"><b>SQL</b></span>, 
-<span style="color:#222222"><b>ETL</b></span>, 
-<span style="color:#222222"><b>ML</b></span>, 
-<span style="color:#222222"><b>AWS</b></span>, 
-<span style="color:#222222"><b>Power BI</b></span>, 
-<span style="color:#222222"><b>Tableau</b></span>, 
-<span style="color:#222222"><b>Generative AI</b></span>
+#### Technical Skills: <span style="color:#222222"><b>Python</b></span> • <span style="color:#222222"><b>R</b></span> • <span style="color:#222222"><b>SQL</b></span> • <span style="color:#222222"><b>ETL</b></span> • <span style="color:#222222"><b>ML</b></span> • <span style="color:#222222"><b>AWS</b></span> • <span style="color:#222222"><b>Power BI</b></span> • <span style="color:#222222"><b>Tableau</b></span> • <span style="color:#222222"><b>Generative AI</b></span>
 
 ## Education							       		
 M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
