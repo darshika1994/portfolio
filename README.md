@@ -1,17 +1,28 @@
-# Data Analyst | M.S. Data Analytics Candidate
+# <span style="color:blue">Data Analyst | M.S. Data Analytics Candidate</span>
 
 #### Technical Skills: Python, R, SQL, Power BI, Tableau, ETL, ML, AWS, Generative AI
+
+#### Technical Skills: 
+<span style="color:#222222"><b>Python</b></span>, 
+<span style="color:#222222"><b>R</b></span>, 
+<span style="color:#222222"><b>SQL</b></span>, 
+<span style="color:#222222"><b>ETL</b></span>, 
+<span style="color:#222222"><b>ML</b></span>, 
+<span style="color:#222222"><b>AWS</b></span>, 
+<span style="color:#222222"><b>Power BI</b></span>, 
+<span style="color:#222222"><b>Tableau</b></span>, 
+<span style="color:#222222"><b>Generative AI</b></span>
 
 ## Education							       		
 M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
 
 ## Work Experience
 **Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
-- Optimized **SQL** queries and consolidated financial datasets, reducing data retrieval times by 20% and improving reporting efficiency.
-- Enhanced financial **forecasting ML models** through feature refinement and data preprocessing using **Python**, boosting prediction accuracy by ~15%.
-- Owned end-to-end development of executive dashboards in **Power BI**, driving a 25% increase in business unit engagement and decision-making speed.
-- Cleaned, transformed, analyzed and visualized **big financial datasets** using Python (Pandas, NumPy, Matplotlib) to uncover key business insights.
-- Designed and automated **Excel**-based financial reports with advanced formulas, pivot tables, and macros, cutting manual reporting time by 30%.
+- Optimized <span style="color:orange">**SQL**</b></span> queries and consolidated financial datasets, reducing data retrieval times by 20% and improving reporting efficiency.
+- Enhanced financial <span style="color:orange">**forecasting ML models**</b></span> through feature refinement and data preprocessing using <span style="color:orange">**Python**</b></span>, boosting prediction accuracy by ~15%.
+- Owned end-to-end development of executive dashboards in <span style="color:orange">**Power BI**</b></span>, driving a 25% increase in business unit engagement and decision-making speed.
+- Cleaned, transformed, analyzed and visualized <span style="color:orange">**big financial datasets**</b></span> using Python (Pandas, NumPy, Matplotlib) to uncover key business insights.
+- Designed and automated <span style="color:orange">**Excel**</b></span>-based financial reports with advanced formulas, pivot tables, and macros, cutting manual reporting time by 30%.
 
 ## Projects
 ### AI-Powered Email Automation for Sponsorship Inquiries
@@ -33,4 +44,4 @@ xyz
 - AWS Certified Data Engineer – Associate (DEA-C01) — Issued Aug 2025
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) – Issued Jan 2025 
 
-- [Data Science Blog](https://vermadarshika1994.medium.com/)
+[Data Science Blog](https://vermadarshika1994.medium.com/)
