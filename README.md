@@ -17,7 +17,7 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 ### AI-Powered Email Automation for Sponsorship Inquiries
 [Project Link](https://github.com/darshika1994/action-enabled-ai)
 
-Built an AI-powered email automation system  using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
+Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
 
 ![EEG Band Discovery](/assets/img/EmailAutomation.png)
 
