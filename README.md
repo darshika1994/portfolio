@@ -7,9 +7,9 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 
 ## Work Experience
 **Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
-- Owned end-to-end development of executive dashboards in **Power BI**, driving a 25% increase in business unit engagement and decision-making speed.
-- Enhanced financial forecasting models (ML) through feature refinement and data preprocessing using **Python**, boosting prediction accuracy by ~15%.
 - Optimized **SQL** queries and consolidated financial datasets, reducing data retrieval times by 20% and improving reporting efficiency.
+- Enhanced financial **forecasting ML models** through feature refinement and data preprocessing using **Python**, boosting prediction accuracy by ~15%.
+- Owned end-to-end development of executive dashboards in **Power BI**, driving a 25% increase in business unit engagement and decision-making speed.
 - Cleaned, transformed, analyzed and visualized **big financial datasets** using Python (Pandas, NumPy, Matplotlib) to uncover key business insights.
 - Designed and automated **Excel**-based financial reports with advanced formulas, pivot tables, and macros, cutting manual reporting time by 30%.
 
