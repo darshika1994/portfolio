@@ -1,6 +1,12 @@
 title: <h1 style="text-align:center; color:#2E75B6;">Darshika Verma</h1>
 logo: /assets/img/mypic.png
-description: Authorized to work in the United States | Available to start immediately
+description: |
+  <p style="text-align:center;">
+    Authorized to work in the United States | Available to start immediately<br>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" style="color:#2E75B6; text-decoration:none;">LinkedIn</a> |
+    <a href="https://github.com/YOUR-GITHUB-USERNAME" style="color:#2E75B6; text-decoration:none;">GitHub</a>
+  </p>
 show_downloads: true
 url: "https://darshika1994.github.io/portfolio"
 theme: jekyll-theme-minimal
+
