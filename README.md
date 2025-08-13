@@ -1,9 +1,9 @@
 # Data Analyst | M.S. Data Analytics Candidate
 
-#### Technical Skills: Python, R, SQL, Power BI, Tableau, ETL, Machine Learning, AWS Cloud Services, Generative AI
+#### Technical Skills: Python, R, SQL, Power BI, Tableau, ETL, ML, AWS, Generative AI
 
 ## Education							       		
-- M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
+M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
 
 ## Work Experience
 **Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
@@ -17,7 +17,7 @@
 ### AI-Powered Email Automation for Sponsorship Inquiries
 [Project Link](https://github.com/darshika1994/action-enabled-ai)
 
-Developed an automated email management system using **n8n**, Gmail API, OpenAI API, and Google Sheets API. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter.
+Developed an automated email management system using **n8n**, Gmail API, OpenAI API, and Google Sheets API. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
 
 ![EEG Band Discovery](/assets/img/n8n.png)
 
