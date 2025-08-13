@@ -19,14 +19,14 @@
 
 Developed an automated email management system using **n8n**, Gmail API, OpenAI API, and Google Sheets API. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter.
 
+![EEG Band Discovery](/assets/img/n8n.png)
+
 **Key Benefits:**
 **Saves Time**: Eliminates the need for manually reviewing and replying to sponsorship inquiries.
 **Boosts Efficiency**: Ensures quick, consistent, and professional responses.
 **Improves Organization**: Keeps a structured log of sponsorship leads for easy tracking.
 **Reduces Errors**: Minimizes the risk of missing or mishandling potential opportunities.
 
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
