@@ -1,26 +1,30 @@
-# Data Scientist
+# Data Analyst | M.S. Data Analytics Candidate
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, Power BI, Tableau, ETL, Machine Learning, AWS Cloud Services, Generative AI
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
+- Owned end-to-end development of executive dashboards in **Power BI**, driving a 25% increase in business unit engagement and decision-making speed.
+- Enhanced financial forecasting models (ML) through feature refinement and data preprocessing using **Python**, boosting prediction accuracy by ~15%.
+- Optimized **SQL** queries and consolidated financial datasets, reducing data retrieval times by 20% and improving reporting efficiency.
+- Cleaned, transformed, analyzed and visualized **big financial datasets** using Python (Pandas, NumPy, Matplotlib) to uncover key business insights.
+- Designed and automated **Excel**-based financial reports with advanced formulas, pivot tables, and macros, cutting manual reporting time by 30%.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### AI-Powered Email Automation for Sponsorship Inquiries
+[Project Link](https://github.com/darshika1994/action-enabled-ai)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed an automated email management system using **n8n**, Gmail API, OpenAI API, and Google Sheets API. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter.
+
+**Key Benefits:**
+**Saves Time**: Eliminates the need for manually reviewing and replying to sponsorship inquiries.
+**Boosts Efficiency**: Ensures quick, consistent, and professional responses.
+**Improves Organization**: Keeps a structured log of sponsorship leads for easy tracking.
+**Reduces Errors**: Minimizes the risk of missing or mishandling potential opportunities.
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
