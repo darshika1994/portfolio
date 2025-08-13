@@ -19,7 +19,7 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 
 Developed an automated email management system using **n8n**, Gmail API, OpenAI API, and Google Sheets API. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
 
-![EEG Band Discovery](/assets/img/n8n.png)
+![EEG Band Discovery](/assets/img/EmailAutomation.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
