@@ -1,16 +1,15 @@
-title: <h1 style="text-align:center; color:#2E75B6;">Darshika Verma</h1>
-logo: /assets/img/mypic.png
+title: Darshika Verma
+logo: /assets/img/mypic.png   # remove this line if you don’t want the photo in the sidebar
 description: |
-  <p style="text-align:center;">
-    Authorized to work in the United States<br>
-    Available to start immediately<br>
-    Phone: +1 412-500-5170<br>
-    Email: <a href="mailto:Dverma1@my.harrisburgu.edu" style="color:#2E75B6; text-decoration:none;">Dverma1@my.harrisburgu.edu</a><br>
-    <a href="https://www.linkedin.com/in/darshika-verma/" style="color:#2E75B6; text-decoration:none;">LinkedIn</a> |
-    <a href="https://github.com/darshika1994" style="color:#2E75B6; text-decoration:none;">GitHub</a>
-  </p>
+  Authorized to work in the United States  
+  Available to start immediately  
+  Phone: +1 412-500-5170  
+  Email: Dverma1@my.harrisburgu.edu  
+  [LinkedIn](https://www.linkedin.com/in/darshika-verma/) · [GitHub](https://github.com/darshika1994)
+
 show_downloads: true
 url: "https://darshika1994.github.io/portfolio"
 theme: jekyll-theme-minimal
+
 
 
