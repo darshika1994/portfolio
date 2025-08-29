@@ -7,11 +7,10 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 
 ## <span style="color:#1F4E79"><b>Work Experience<span style="color:#1F4E79"><b>
 **Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
-- Optimized **SQL** queries and consolidated financial datasets, reducing data retrieval times by 20% and improving reporting efficiency.
-- Enhanced financial **forecasting ML models** through feature refinement and data preprocessing using **Python**, boosting prediction accuracy by ~15%.
-- Owned end-to-end development of executive dashboards in **Power BI**, driving a 25% increase in business unit engagement and decision-making speed.
-- Cleaned, transformed, analyzed and visualized **big financial datasets** using Python (Pandas, NumPy, Matplotlib) to uncover key business insights.
-- Designed and automated **Excel**-based financial reports with advanced formulas, pivot tables, and macros, cutting manual reporting time by 30%.
+- Developed and standardized datasets from SQL databases, APIs, and AWS, improving data integrity and reducing reporting errors by 12%.
+- Led the end-to-end development of executive dashboards in Power BI, accelerating decision-making by 25%
+- Improved financial forecasting models through advanced data cleaning, data preprocessing and feature engineering, increasing prediction accuracy by ~15%.
+- Designed data warehouse solutions with SQL queries and ETL pipelines, reducing reconciliation effort by 30% and accelerating reporting by 25%.
 
 ## <span style="color:#1F4E79"><b>Projects<span style="color:#1F4E79"><b>
 ### AI-Powered Email Automation for Sponsorship Inquiries
@@ -45,6 +44,7 @@ An interactive Power BI dashboard that provides a data-driven overview of workfo
 ![HR_analytics](/assets/img/HR_analytics.png)
 
 ## Power BI Marketing Campaign Performance Dashboard
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2NmNmVmMTAtYTY1Zi00ZDkzLTg2YzYtYTVhZjk4MWZlOGM3IiwidCI6IjQ1ZDU0MDVhLWIwOTUtNDIwZS1hM2NhLWYzMzk1YWViMzY1NCIsImMiOjF9)
 
 This project leverages Power BI to analyze marketing campaign effectiveness and customer behavior for a food and beverage retail case study. It explores **campaign performance, product sales, and buyer demographics**, highlighting which campaigns generated the most purchases and revenue. Developed with **Power Query, DAX, and custom measures**, the dashboard uncovers customer insights such as age, income, marital status, and education, alongside purchase preferences. By combining campaign analytics with customer profiling, it provides a powerful tool for businesses to **optimize marketing strategies, improve targeting, and drive ROI**.  
 
