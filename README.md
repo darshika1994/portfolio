@@ -57,6 +57,13 @@ This project showcases an interactive Tableau dashboard that tracks sales, profi
 
 ![tab dash](/assets/img/tab_dash.png)
 
+## <span style="color:#E67E22"><b>PDF Q&A Tool – Interactive Research Paper Explorer<span style="color:#E67E22"><b>
+[Project Link](https://github.com/darshika1994/pdf-question-answering-app-nlp/tree/main)
+
+Developed an **interactive Streamlit application that allows users to query research papers** (with a focus on mental health studies) and receive contextual answers. The tool uses PyPDFDirectoryLoader for PDF text extraction, RecursiveCharacterTextSplitter for chunking, Google Generative AI embeddings for vectorization, and FAISS for similarity search. Powered by the **Groq Llama3-8b-8192 model**, it retrieves relevant document sections and provides precise answers, making complex scientific literature easier to explore and understand.  
+
+![pdf_qa](/assets/img/pdf_qa.png)
+
 ## <span style="color:#E67E22"><b>n8n-Powered AI Email Automation – Efficient Sponsorship Inquiry Handling<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/action-enabled-ai)
 
