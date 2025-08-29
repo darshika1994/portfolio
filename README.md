@@ -21,14 +21,14 @@ Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API
 
 ![EEG Band Discovery](/assets/img/EmailAutomation.png)
 
-### Advanced SQL Data Analytics and Business Insights Project
+## Advanced SQL Data Analytics and Business Insights Project
 [Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
 
 Built a SQL-based Data Analytics project that transforms raw datasets into business insights. It performs exploratory and advanced analysis using subqueries, CTEs, window functions, and views. The project uncovers trends, rankings, and performance metrics, helping organizations track KPIs and make data-driven decisions. Designed with reusable SQL scripts and optimized queries, making analysis efficient and scalable for real-world use. 
 
 ![analytics_eda](/assets/img/analytics_eda.png)
 
-### SQL ETL and Data Warehouse Architecture Project
+## SQL ETL and Data Warehouse Architecture Project
 [Project Link](https://github.com/darshika1994/SQL-Data-Warehouse-ETL-Project)
 
 Designed and implemented a complete data warehouse solution in SQL Server with ETL pipelines integrating ERP and CRM datasets. The architecture follows the Medallion framework (Bronze, Silver, Gold layers) to move data from raw to business-ready form. Applied data cleansing, standardization, and star schema modeling to enable efficient analytics and reporting. Provides actionable insights into customer behavior, product performance, and sales trends while showcasing data engineering best practices.  
@@ -36,6 +36,12 @@ Designed and implemented a complete data warehouse solution in SQL Server with E
 <p align="center">
   <img src="/assets/img/etl_sql.png" alt="SQL ETL and Data Warehouse" width="600">
 </p>
+
+## HR Analytics Dashboard – Headcount, Retention, and Turnover (PowerBI)
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjgxOTgyMzUtYjUwYi00ZDhkLTlmZjQtODIyNDA2Y2ExMTZhIiwidCI6IjQ1ZDU0MDVhLWIwOTUtNDIwZS1hM2NhLWYzMzk1YWViMzY1NCIsImMiOjF9)
+
+An interactive Power BI dashboard that provides a data-driven overview of workforce analytics. The report highlights **headcount, retention, and turnover**, enabling HR teams to monitor employee trends, track demographics, and analyze workforce patterns. Built using **Power Query for data transformation, DAX calculations, and custom measures**, the dashboard includes interactive charts and slicers to explore insights by department, job level, location, education, and demographics. This solution helps HR leaders identify trends, improve engagement, reduce turnover, and make data-driven workforce planning decisions.  
+
 
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
