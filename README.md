@@ -21,6 +21,14 @@ Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API
 
 ![EEG Band Discovery](/assets/img/EmailAutomation.png)
 
+### SQL Data Analytics Project
+[Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
+
+Built a SQL-based Data Analytics project that transforms raw datasets into business insights. It performs exploratory and advanced analysis using subqueries, CTEs, window functions, and views. The project uncovers trends, rankings, and performance metrics, helping organizations track KPIs and make data-driven decisions. Designed with reusable SQL scripts and optimized queries, making analysis efficient and scalable for real-world use. 
+
+
+
+
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
 
