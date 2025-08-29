@@ -48,6 +48,8 @@ An interactive Power BI dashboard that provides a data-driven overview of workfo
 
 This project leverages Power BI to analyze marketing campaign effectiveness and customer behavior for a food and beverage retail case study. It explores **campaign performance, product sales, and buyer demographics**, highlighting which campaigns generated the most purchases and revenue. Developed with **Power Query, DAX, and custom measures**, the dashboard uncovers customer insights such as age, income, marital status, and education, alongside purchase preferences. By combining campaign analytics with customer profiling, it provides a powerful tool for businesses to **optimize marketing strategies, improve targeting, and drive ROI**.  
 
+![marketing dash](/assets/img/marketing_dash.png)
+
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
 
