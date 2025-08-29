@@ -30,6 +30,14 @@ Built a SQL-based Data Analytics project that transforms raw datasets into busin
   <img src="/assets/img/analytics_eda.png" alt="Analytics using SQL" width="600">
 </p>
 
+### SQL ETL and Data Warehouse Architecture Project
+[Project Link](https://github.com/darshika1994/SQL-Data-Warehouse-ETL-Project)
+
+Designed and implemented a complete data warehouse solution in SQL Server with ETL pipelines integrating ERP and CRM datasets. The architecture follows the Medallion framework (Bronze, Silver, Gold layers) to move data from raw to business-ready form. Applied data cleansing, standardization, and star schema modeling to enable efficient analytics and reporting. Provides actionable insights into customer behavior, product performance, and sales trends while showcasing data engineering best practices.  
+
+<p align="center">
+  <img src="/assets/img/etl_sql.png" alt="SQL ETL and Data Warehouse" width="600">
+</p>
 
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
