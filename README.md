@@ -13,12 +13,6 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 - Designed data warehouse solutions with SQL queries and ETL pipelines, reducing reconciliation effort by 30% and accelerating reporting by 25%.
 
 ## <span style="color:#1F4E79"><b>Projects<span style="color:#1F4E79"><b>
-### AI-Powered Email Automation for Sponsorship Inquiries
-[Project Link](https://github.com/darshika1994/action-enabled-ai)
-
-Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
-
-![EEG Band Discovery](/assets/img/EmailAutomation.png)
 
 ## Advanced SQL Data Analytics and Business Insights Project
 [Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
@@ -50,7 +44,14 @@ This project leverages Power BI to analyze marketing campaign effectiveness and 
 
 ![marketing dash](/assets/img/marketing_dash.png)
 
-### Loan Portfolio Performance Dashboard (Excel)
+## AI-Powered Email Automation for Sponsorship Inquiries
+[Project Link](https://github.com/darshika1994/action-enabled-ai)
+
+Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
+
+![EEG Band Discovery](/assets/img/EmailAutomation.png)
+
+## Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
 
 An interactive Excel dashboard analyzing loan applications, funded amounts, repayments, and performance metrics. It provides insights into performing vs. non-performing loans, trends by month, state, and customer segments. Built using pivot tables, charts, and slicers to support data-driven decision-making. Helps financial institutions track growth, manage risk, and optimize lending strategies.  
