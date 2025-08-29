@@ -6,11 +6,13 @@
 M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
 
 ## <span style="color:#1F4E79"><b>Work Experience<span style="color:#1F4E79"><b>
-**Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**   
-- Developed and standardized datasets from SQL databases, APIs, and AWS, improving data integrity and reducing reporting errors by 12%.
-- Led the end-to-end development of executive dashboards in Power BI, accelerating decision-making by 25%
-- Improved financial forecasting models through advanced data cleaning, data preprocessing and feature engineering, increasing prediction accuracy by ~15%.
-- Designed data warehouse solutions with SQL queries and ETL pipelines, reducing reconciliation effort by 30% and accelerating reporting by 25%.
+**Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**     
+- Consolidated and standardized large-scale datasets from **SQL databases**, **financial APIs**, and **AWS sources**, enhancing data quality and reducing reporting discrepancies by 12%.  
+- Designed and delivered executive **Power BI dashboards** for senior management, enabling faster decision-making on financial performance, credit risk, and portfolio trends (25% improvement in reporting speed).  
+- Enhanced financial forecasting models by applying advanced **data cleaning, preprocessing, and feature engineering**, improving prediction accuracy for market and credit risk metrics by ~15%.  
+- Built and optimized **SQL-based data warehouse and ETL pipelines**, streamlining reconciliation of financial datasets across business units, cutting manual effort by 30% and improving reporting turnaround by 25%.  
+- Conducted analysis of **healthcare and financial datasets using Python (Pandas, NumPy)** to improve transparency in reporting, reducing timelines by ~10% while maintaining regulatory compliance.  
+
 
 ## <span style="color:#1F4E79"><b>Projects<span style="color:#1F4E79"><b>
 
