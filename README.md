@@ -49,7 +49,7 @@ This project leverages Power BI to analyze marketing campaign effectiveness and 
 
 Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
 
-![EEG Band Discovery](/assets/img/EmailAutomation.png)
+![action enabled](/assets/img/action_enabled.png)
 
 ## Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
