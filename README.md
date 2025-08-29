@@ -24,11 +24,9 @@ Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
 
-An interactive Excel dashboard analyzing loan applications, funded amounts, repayments, and performance metrics.  
-It provides insights into performing vs. non-performing loans, trends by month, state, and customer segments.  
-Built using pivot tables, charts, and slicers to support data-driven decision-making.  
-Helps financial institutions track growth, manage risk, and optimize lending strategies.  
+An interactive Excel dashboard analyzing loan applications, funded amounts, repayments, and performance metrics. It provides insights into performing vs. non-performing loans, trends by month, state, and customer segments. Built using pivot tables, charts, and slicers to support data-driven decision-making. Helps financial institutions track growth, manage risk, and optimize lending strategies.  
 
+![loan_portfolio](/assets/img/loan_portfolio.png)
 
 ## <span style="color:#1F4E79"><b>Certification<span style="color:#1F4E79"><b>
 - AWS Certified AI Practitioner (AIF-C01) – Issued Apr 2025
