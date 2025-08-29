@@ -37,13 +37,16 @@ Designed and implemented a complete data warehouse solution in SQL Server with E
   <img src="/assets/img/etl_sql.png" alt="SQL ETL and Data Warehouse" width="600">
 </p>
 
-## HR Analytics Dashboard – Headcount, Retention, and Turnover (PowerBI)
+## Power BI HR Analytics Dashboard – Workforce Insights on Headcount, Retention, and Turnover
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjgxOTgyMzUtYjUwYi00ZDhkLTlmZjQtODIyNDA2Y2ExMTZhIiwidCI6IjQ1ZDU0MDVhLWIwOTUtNDIwZS1hM2NhLWYzMzk1YWViMzY1NCIsImMiOjF9)
 
 An interactive Power BI dashboard that provides a data-driven overview of workforce analytics. The report highlights **headcount, retention, and turnover**, enabling HR teams to monitor employee trends, track demographics, and analyze workforce patterns. Built using **Power Query for data transformation, DAX calculations, and custom measures**, the dashboard includes interactive charts and slicers to explore insights by department, job level, location, education, and demographics. This solution helps HR leaders identify trends, improve engagement, reduce turnover, and make data-driven workforce planning decisions.  
 
 ![HR_analytics](/assets/img/HR_analytics.png)
 
+## Power BI Marketing Campaign Performance Dashboard
+
+This project leverages Power BI to analyze marketing campaign effectiveness and customer behavior for a food and beverage retail case study. It explores **campaign performance, product sales, and buyer demographics**, highlighting which campaigns generated the most purchases and revenue. Developed with **Power Query, DAX, and custom measures**, the dashboard uncovers customer insights such as age, income, marital status, and education, alongside purchase preferences. By combining campaign analytics with customer profiling, it provides a powerful tool for businesses to **optimize marketing strategies, improve targeting, and drive ROI**.  
 
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
