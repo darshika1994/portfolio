@@ -2,10 +2,10 @@
 
 #### Technical Skills: <span style="color:#3E4C59"><b>Python</b></span> • <span style="color:#3E4C59"><b>R</b></span> • <span style="color:#3E4C59"><b>SQL</b></span> • <span style="color:#3E4C59"><b>ETL</b></span> • <span style="color:#3E4C59"><b>ML</b></span> • <span style="color:#3E4C59"><b>AWS</b></span> • <span style="color:#3E4C59"><b>Power BI</b></span> • <span style="color:#3E4C59"><b>Tableau</b></span> • <span style="color:#3E4C59"><b>Generative AI</b></span>
 
-## <span style="color:#1F4E79"><b>Education<span style="color:#1F4E79"><b>							       		
+## <span style="color:#1F4E79"><b>EDUCATION<span style="color:#1F4E79"><b>							       		
 M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 2025_)	 			        		
 
-## <span style="color:#1F4E79"><b>Work Experience<span style="color:#1F4E79"><b>
+## <span style="color:#1F4E79"><b>WORK EXPERIENCE<span style="color:#1F4E79"><b>
 **Data Analyst @ Crisil (_Oct 2021 - Jul 2023_)**     
 - Consolidated and standardized large-scale datasets from **SQL databases**, **financial APIs**, and **AWS sources**, enhancing data quality and reducing reporting discrepancies by 12%.  
 - Designed and delivered executive **Power BI dashboards** for senior management, enabling faster decision-making on financial performance, credit risk, and portfolio trends (25% improvement in reporting speed).  
@@ -14,7 +14,7 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 - Conducted analysis of **healthcare and financial datasets using Python (Pandas, NumPy)** to improve transparency in reporting, reducing timelines by ~10% while maintaining regulatory compliance.  
 
 
-## <span style="color:#1F4E79"><b>Projects<span style="color:#1F4E79"><b>
+## <span style="color:#1F4E79"><b>PROJECTS<span style="color:#1F4E79"><b>
 
 ## <span style="color:#E67E22"><b>Advanced SQL Data Analytics and Business Insights Project<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
