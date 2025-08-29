@@ -26,7 +26,8 @@ Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API
 
 An interactive Excel dashboard analyzing loan applications, funded amounts, repayments, and performance metrics. It provides insights into performing vs. non-performing loans, trends by month, state, and customer segments. Built using pivot tables, charts, and slicers to support data-driven decision-making. Helps financial institutions track growth, manage risk, and optimize lending strategies.  
 
-![loan_portfolio](/assets/img/loan_portfolio.png)
+<img src="/assets/img/loan_portfolio.png" alt="Loan Portfolio Dashboard" width="600">
+
 
 ## <span style="color:#1F4E79"><b>Certification<span style="color:#1F4E79"><b>
 - AWS Certified AI Practitioner (AIF-C01) – Issued Apr 2025
