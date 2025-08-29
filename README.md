@@ -44,7 +44,7 @@ This project leverages Power BI to analyze marketing campaign effectiveness and 
 
 ![marketing dash](/assets/img/marketing_dash.png)
 
-## AI-Powered Email Automation for Sponsorship Inquiries
+## n8n-Powered AI Email Automation – Efficient Sponsorship Inquiry Handling
 [Project Link](https://github.com/darshika1994/action-enabled-ai)
 
 Built an AI-powered email automation system using **n8n**, Gmail API, OpenAI API, and Google Sheets API that reduced sponsorship inquiry response time by 80%. The system automatically identifies sponsorship-related emails, sends personalized replies, and logs key details in Google Sheets for tracking. Non-relevant emails are ignored to reduce inbox clutter. This system **saves time** and **boosts efficiency by automating** quick, consistent sponsorship replies while keeping leads organized.
