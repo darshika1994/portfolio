@@ -44,6 +44,13 @@ This project leverages Power BI to analyze marketing campaign effectiveness and 
 
 ![marketing dash](/assets/img/marketing_dash.png)
 
+# <span style="color:#E67E22"><b>Tableau Sales & Customer Performance Dashboard  <span style="color:#E67E22"><b>
+[Dashboard Link](https://public.tableau.com/app/profile/darshika.verma/viz/SalesCustomerDashboards_17563261137010/SalesDashboard)
+
+This project showcases an interactive Tableau dashboard that tracks **sales, profit, and customer metrics** to evaluate business performance. It highlights **top-performing products, sales trends over time, and customer distribution by orders and profitability**, enabling deeper insights into key growth drivers. With dynamic filters for **year, product category, and region**, the dashboard allows business leaders to explore data at both summary and detailed levels. The solution reflects strong skills in **data visualization, storytelling with data, and building decision-support tools in Tableau**. 
+
+![tab dash](/assets/img/tab_dash.png)
+
 ## <span style="color:#E67E22"><b>n8n-Powered AI Email Automation – Efficient Sponsorship Inquiry Handling<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/action-enabled-ai)
 
