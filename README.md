@@ -42,6 +42,8 @@ Designed and implemented a complete data warehouse solution in SQL Server with E
 
 An interactive Power BI dashboard that provides a data-driven overview of workforce analytics. The report highlights **headcount, retention, and turnover**, enabling HR teams to monitor employee trends, track demographics, and analyze workforce patterns. Built using **Power Query for data transformation, DAX calculations, and custom measures**, the dashboard includes interactive charts and slicers to explore insights by department, job level, location, education, and demographics. This solution helps HR leaders identify trends, improve engagement, reduce turnover, and make data-driven workforce planning decisions.  
 
+![HR_analytics](/assets/img/HR_analytics.png)
+
 
 ### Loan Portfolio Performance Dashboard (Excel)
 [Project Link](https://myharrisburgu-my.sharepoint.com/:x:/g/personal/dverma1_my_harrisburgu_edu/EfyVH8giAyZPh4YMRB3E97ABaWD3p0qTm2UOsKt0i_dniA?e=X5G7Lp)
