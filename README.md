@@ -16,7 +16,7 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 
 ## <span style="color:#1F4E79"><b>PROJECTS<span style="color:#1F4E79"><b>
 
-## <span style="color:#FAF3E0"><b>Data Engineering & SQL<span style="color:#FAF3E0"><b>
+## <span style="color:#F59E0B"><b>Data Engineering & SQL<span style="color:#F59E0B"><b>
 
 ### <span style="color:#E67E22"><b>Advanced SQL Data Analytics and Business Insights Project<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
