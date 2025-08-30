@@ -80,8 +80,9 @@ An interactive Excel dashboard analyzing loan applications, funded amounts, repa
 ![loan portfolio](/assets/img/loan_portfolio.png)
 
 ## <span style="color:#1F4E79"><b>CERTIFICATION<span style="color:#1F4E79"><b>
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) – Issued Jan 2025 
 - AWS Certified AI Practitioner (AIF-C01) – Issued Apr 2025
 - AWS Certified Data Engineer – Associate (DEA-C01) — Issued Aug 2025
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) – Issued Jan 2025 
+
 
 [Data Science Blog](https://vermadarshika1994.medium.com/)
