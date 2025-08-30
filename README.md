@@ -35,6 +35,7 @@ Designed and implemented a complete data warehouse solution in **SQL Server with
 
 This project focuses on performing **exploratory data analysis** on a housing dataset to uncover the factors influencing property sale prices. The workflow includes **data loading, cleaning (handling duplicates, missing values, and data type corrections), univariate analysis (feature distributions), and bivariate analysis (feature relationships with SalePrice)**. The analysis highlights significant variables such as overall quality, living area, and location, which strongly correlate with house prices. These insights not only improve understanding of the housing market but also provide a foundation for predictive modeling and pricing strategies.  
 
+![house](/assets/img/house.png)
 
 ## <span style="color:#E67E22"><b>Power BI HR Analytics Dashboard – Workforce Insights on Headcount, Retention, and Turnover<span style="color:#E67E22"><b>
 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjgxOTgyMzUtYjUwYi00ZDhkLTlmZjQtODIyNDA2Y2ExMTZhIiwidCI6IjQ1ZDU0MDVhLWIwOTUtNDIwZS1hM2NhLWYzMzk1YWViMzY1NCIsImMiOjF9)
