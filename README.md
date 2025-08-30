@@ -16,14 +16,16 @@ M.S., Data Analytics	| Harrisburg University of Science & Technology (_December 
 
 ## <span style="color:#1F4E79"><b>PROJECTS<span style="color:#1F4E79"><b>
 
-## <span style="color:#E67E22"><b>Advanced SQL Data Analytics and Business Insights Project<span style="color:#E67E22"><b>
+## <span style="color:#FAF3E0"><b>Data Engineering & SQL<span style="color:#FAF3E0"><b>
+
+### <span style="color:#E67E22"><b>Advanced SQL Data Analytics and Business Insights Project<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/SQL-Data-Analytics-Project)
 
 Built a SQL-based Data Analytics project that transforms raw datasets into business insights. It performs exploratory and advanced analysis using **subqueries, CTEs, window functions, and views**. The project uncovers trends, rankings, and performance metrics, helping organizations **track KPIs and make data-driven decisions**. Designed with reusable SQL scripts and optimized queries, making analysis efficient and scalable for real-world use. 
 
 ![analytics_eda](/assets/img/analytics_eda.png)
 
-## <span style="color:#E67E22"><b>SQL ETL and Data Warehouse Architecture Project<span style="color:#E67E22"><b>
+### <span style="color:#E67E22"><b>SQL ETL and Data Warehouse Architecture Project<span style="color:#E67E22"><b>
 [Project Link](https://github.com/darshika1994/SQL-Data-Warehouse-ETL-Project)
 
 Designed and implemented a complete data warehouse solution in **SQL Server with ETL pipelines** integrating ERP and CRM datasets. The architecture follows the Medallion framework (Bronze, Silver, Gold layers) to move data from raw to business-ready form. Applied data cleansing, standardization, and star schema modeling to enable efficient analytics and reporting. Provides actionable insights into customer behavior, product performance, and sales trends while showcasing data engineering best practices.  
